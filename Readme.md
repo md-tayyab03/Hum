@@ -1,9 +1,9 @@
 # Mohammed Tayyab 
 
-🛠️ Make it Happen - Code Code Code
-🎓 B.E. in Computer Science & Engineering  
-🏫 RTE Society’s Rural Engineering College, Hulkoti, Gadag  
-🛜 Actively seeking opportunities to gain hands-on experience
+-🛠️ Make it Happen - Code Code Code
+-🎓 B.E. in Computer Science & Engineering  
+-🏫 RTE Society’s Rural Engineering College, Hulkoti, Gadag  
+-🛜 Actively seeking opportunities to gain hands-on experience
 
 ---
 
